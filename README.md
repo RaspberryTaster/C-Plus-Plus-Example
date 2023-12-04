@@ -1,2 +1,2 @@
-# C Plus Plus Example
+# C ++ Example
  Desmonstrating Proficency
